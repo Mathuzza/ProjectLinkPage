@@ -5,12 +5,12 @@
 
 <p align="center">
 
-<img src=".git/dark.png" alt="Link dark mode">
+<img src="./dark.png" alt="Link dark mode">
 
 </p>
 <p align="center">
 
-<img src=".git/light.png" alt="Link light mode">
+<img src="./light.png" alt="Link light mode">
 
 </p>
 
