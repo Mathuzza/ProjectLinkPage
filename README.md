@@ -3,6 +3,20 @@
 
 <p align="center">Programa exclusivo, promovido pela Rocketseat para ensino de tecnologia WEB</p>
 
+<p align="center">
+
+<img src="./.git/dark.png" alt="Link dark mode">
+
+</p>
+<p align="center">
+
+<img src="./.git/light.png" alt="Link light mode">
+
+</p>
+
+
+<br>
+
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
